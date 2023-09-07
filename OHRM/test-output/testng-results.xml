@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T14:45:42 IST" name="Default suite" finished-at="2023-09-07T14:45:52 IST" duration-ms="10073">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T14:45:42 IST" name="Default test" finished-at="2023-09-07T14:45:52 IST" duration-ms="10073">
+      <class name="JenkinsDemo.OHRM.ORHRM">
+        <test-method signature="TC_01()[pri:0, instance:JenkinsDemo.OHRM.ORHRM@1c7696c6]" started-at="2023-09-07T14:45:42 IST" name="TC_01" finished-at="2023-09-07T14:45:49 IST" duration-ms="6607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_02()[pri:0, instance:JenkinsDemo.OHRM.ORHRM@1c7696c6]" started-at="2023-09-07T14:45:49 IST" name="TC_02" finished-at="2023-09-07T14:45:52 IST" depends-on-methods="JenkinsDemo.OHRM.ORHRM.TC_01" duration-ms="3420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+      </class> <!-- JenkinsDemo.OHRM.ORHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
